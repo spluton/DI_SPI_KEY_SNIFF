@@ -1,5 +1,5 @@
 # DI_SPI_KEY_SNIFF
-i wrote a small program for arduino Pro mini that sniff and outputs the key via UART.
+i wrote a small sketch for arduino Pro mini that sniff and outputs the key via UART.
 
 MFRC630 PINS ---------   Arduino mini pro
 
